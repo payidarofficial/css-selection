@@ -1,0 +1,9 @@
+::selection{
+    background: red;
+    color: white;
+}
+
+::-moz-selection{
+    background: red;
+    color: white;
+}
